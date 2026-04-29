@@ -1,2 +1,2 @@
 
-Contains the original dataset used for this projec
+Contains the original dataset used for this project
