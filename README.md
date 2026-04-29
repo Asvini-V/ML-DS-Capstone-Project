@@ -10,8 +10,8 @@ Feature Selection Comparison
 Multiple ML Model Evaluation
 Final Random Forest Prediction Model
 Deployment using saved model files
-🛠️ Tech Stack
 
+🛠️ Tech Stack
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 🏆 Best Results
@@ -19,12 +19,7 @@ Best Feature Selection: SelectKBest (Chi-Square)
 Best Model: Random Forest Classifier
 Accuracy: 93%
 F1 Score: 92%
-📂 Project Files
-Preprocessing.ipynb
-EDA.ipynb
-Model_Comparison.ipynb
-Final_Model.ipynb
-Deployment.py
+
 🚀 Outcome
 
 This project helps identify disease categories based on nutrient deficiency markers and supports early prediction through supervised machine learning.
